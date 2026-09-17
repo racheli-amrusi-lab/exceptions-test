@@ -1,0 +1,17 @@
+{
+  "name": "sca-and-license-test",
+  "version": "1.0.0",
+  "description": "Single file containing 10 SCA findings (CVEs and License compliance)",
+  "dependencies": {
+    "lodash": "4.17.11",
+    "express": "4.16.0",
+    "axios": "0.18.0",
+    "minimist": "1.2.0",
+    "jsonwebtoken": "8.5.0",
+    "async": "2.6.0",
+    "moment": "2.29.1",
+    "socket.io": "2.3.0",
+    "gpl-3.0-licensed-package": "1.0.0",
+    "agpl-3.0-licensed-package": "1.0.0"
+  }
+}
